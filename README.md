@@ -1,28 +1,20 @@
 # Hi, I'm Arun 👋
+
+**Data & AI Professional | Standard Chartered**
+
 <img src="koi/koi.gif" width="256" alt="My GitHub koi">
+
+Interested in building intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, and Data Engineering**.
+
+**Exploring:** Generative AI · LLMs · RAG · AI Agents · Deep Learning · MLOps
+
+**Tech Stack:** Python · SQL · PyTorch · TensorFlow · Scikit-learn · Databricks
+
 <p align="center">
-  <a href="https://github.com/arun-ekambaram">
-    <img src="https://github-readme-stats.vercel.app/api?username=arun-ekambaram&hide_border=true&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/arun-ekambaram?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-ekambaram&layout=compact&hide_border=true&theme=radical&title_color=fff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=arun-ekambaram&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-ekambaram&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/arun-ekambaram">
-    <img src="https://komarev.com/ghpvc/?username=arun-ekambaram&label=Profile+views&color=blueviolet" alt="Profile views" />
-  </a>
-</p>
-
-### About Me
-- Building projects and learning every day
-- Interested in software, automation, and problem solving
-- Open to collaboration and new ideas
-
-### Connect
-<p align="left">
-  <a href="https://github.com/arun-ekambaram">
-    <img src="https://img.shields.io/badge/GitHub-arun--ekambaram-181717?logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=arun-ekambaram&label=Profile+views&color=blueviolet" />
 </p>
