@@ -10,7 +10,7 @@ Interested in **Artificial Intelligence, Machine Learning, and computational met
 
 **Technical Skills:** Python · R · SQL · PyTorch · TensorFlow · Scikit-learn · SAS · Pandas · Databricks
 
-**Currently:** Senior Officer – CIB Model Data Strategy, Standard Chartered
+**Currently:** Analyst – CIB Model Data Strategy, Standard Chartered
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arun-ekambaram&label=Profile+Views&color=grey&style=flat-square" alt="Profile Views">
