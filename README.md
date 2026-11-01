@@ -1,20 +1,17 @@
-# Hi, I'm Arun 👋
+# Arun Ekambaram
 
-**Data & AI Professional | Standard Chartered**
+**Data & AI Professional | Machine Learning | Computational Science**
 
-<img src="koi/koi.gif" width="256" alt="My GitHub koi">
+<img src="koi/koi.gif" width="256" alt="GitHub Koi">
 
-Interested in building intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, and Data Engineering**.
+Interested in **Artificial Intelligence, Machine Learning, and computational methods**, with a focus on developing intelligent, data-driven solutions.
 
-**Exploring:** Generative AI · LLMs · RAG · AI Agents · Deep Learning · MLOps
+**Research Interests:** Machine Learning · Deep Learning · Generative AI · NLP · Large Language Models
 
-**Tech Stack:** Python · SQL · PyTorch · TensorFlow · Scikit-learn · Databricks
+**Technical Skills:** Python · R · SQL · PyTorch · TensorFlow · Scikit-learn · SAS · Pandas · Databricks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun-ekambaram&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-ekambaram&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
+**Currently:** Senior Officer – CIB Model Data Strategy, Standard Chartered
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arun-ekambaram&label=Profile+views&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=arun-ekambaram&label=Profile+Views&color=grey&style=flat-square" alt="Profile Views">
 </p>
