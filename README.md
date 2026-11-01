@@ -1,5 +1,5 @@
 # Hi, I'm Arun 👋
-
+<img src="koi/koi.gif" width="256" alt="My GitHub koi">
 <p align="center">
   <a href="https://github.com/arun-ekambaram">
     <img src="https://github-readme-stats.vercel.app/api?username=arun-ekambaram&hide_border=true&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180" />
